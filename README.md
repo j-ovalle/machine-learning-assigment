@@ -1,8 +1,11 @@
 # Superstore Profit Prediction — Machine Learning Business Problem Solution
 
 **MSc Information Technology Management — Berlin School of Business and Innovation (BSBI)**
+
 **Module:** Machine Learning and Visualization for Data (IITG7003)
+
 **Assessment:** Practical Skills Assessment (Component 1)
+
 **Author:** Juan Osvaldo Ovalle Perez · **Student ID:** Q1122568
 
 ---
