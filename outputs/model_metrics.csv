@@ -1,0 +1,6 @@
+Model,MAE,MSE,RMSE,R2,CV_R2_mean,CV_R2_std,Best_Params
+Random Forest,12.302,1170.62,34.214,0.8858,0.8791,0.0098,"{'m__max_depth': None, 'm__n_estimators': 120}"
+Gradient Boosting,16.517,1247.78,35.324,0.8783,0.8666,0.0122,"{'m__learning_rate': 0.1, 'm__n_estimators': 100}"
+Linear Regression,39.259,5847.02,76.466,0.4298,0.5345,0.0485,{}
+Ridge Regression,39.25,5849.7,76.483,0.4295,0.5345,0.0485,{'m__alpha': 1.0}
+Lasso Regression,39.022,5872.42,76.632,0.4273,0.534,0.0486,{'m__alpha': 0.1}

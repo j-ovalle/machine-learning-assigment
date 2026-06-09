@@ -1,0 +1,50 @@
+SUPERSTORE EDA SUMMARY
+======================
+Records: 9994
+Date range: 2014-01-03 to 2017-12-30
+Total sales: $2,297,200.86
+Total profit: $286,397.02
+Overall profit margin: 12.47%
+Share of loss-making order lines: 18.7%
+Mean profit/line: $28.66 | Median: $8.67
+Discount-Profit correlation: -0.219
+Discount-Profit Margin correlation: -0.864
+
+Profit by Category:
+Category
+Technology         145454.9481
+Office Supplies    122490.8008
+Furniture           18451.2728
+
+Profit by Sub-Category (ascending):
+Sub-Category
+Tables        -17725.4811
+Bookcases      -3472.5560
+Supplies       -1189.0995
+Fasteners        949.5182
+Machines        3384.7569
+Labels          5546.2540
+Art             6527.7870
+Envelopes       6964.1767
+Furnishings    13059.1436
+Appliances     18138.0054
+Storage        21278.8264
+Chairs         26590.1663
+Binders        30221.7633
+Paper          34053.5693
+Accessories    41936.6357
+Phones         44515.7306
+Copiers        55617.8249
+
+Profit by Region:
+Region
+West       108418.4489
+East        91522.7800
+South       46749.4303
+Central     39706.3625
+
+Profit by Segment:
+Segment
+Consumer       134119.2092
+Corporate       91979.1340
+Home Office     60298.6785
