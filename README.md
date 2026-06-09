@@ -4,7 +4,7 @@
 
 **Module:** Machine Learning and Visualization for Data (IITG7003)
 
-**Assessment:** Practical Skills Assessment (Component 1)
+**Assessment:** Practical Skills Assessment
 
 **Author:** Juan Osvaldo Ovalle Perez · **Student ID:** Q1122568
 
@@ -60,7 +60,7 @@ figures/                       # 12 figures used in the report (fig01–fig12)
 outputs/
   eda_summary.txt              # key EDA statistics
   model_metrics.csv            # full model-comparison table
-  superstore_clean_for_tableau.csv   # cleaned + engineered data for the Tableau (Component 2) work
+  superstore_clean_for_tableau.csv   # cleaned + engineered data for the Tableau work
 report/
   Q1122568_JuanOvalle_Assignment.docx  # the written technical report
 requirements.txt
@@ -94,7 +94,7 @@ tuning** of five regressors under **5-fold cross-validation** → evaluation on 
 - Ensemble trees vastly outperform linear models, showing the profit relationship is non-linear and
   interaction-driven.
 
-## 8. Link to Component 2 (Tableau)
+## 8. Dataset for Tableau work (Project Output)
 
 `outputs/superstore_clean_for_tableau.csv` is the cleaned, feature-engineered dataset used as the basis
 for the companion **Project Output** (Tableau dashboard and data story), so both assessments share the
@@ -102,5 +102,4 @@ same data and analysis.
 
 ## 9. Note on tools
 
-Analysis in Python 3 (pandas, scikit-learn, matplotlib). The written report was prepared following the
-BSBI Essay Guide (Times New Roman 12, justified, 1.5 spacing, Harvard referencing).
+Analysis in Python 3 (pandas, scikit-learn, matplotlib).
