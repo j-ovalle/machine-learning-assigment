@@ -13,9 +13,7 @@
 ## 1. Overview
 
 This repository contains the complete, reproducible machine-learning project that accompanies the
-written report submitted on Canvas (`report/Q1122568_JuanOvalle_Assignment.docx`). Because the Canvas
-submission only accepts the report document, the dataset, source code, figures and results are provided
-here so the marker can inspect and re-run everything.
+written report submitted on Canvas.
 
 ## 2. Business problem
 
