@@ -103,3 +103,11 @@ same data and analysis.
 ## 9. Note on tools
 
 Analysis in Python 3 (pandas, scikit-learn, matplotlib).
+
+## 10. Assignment 2 — Project Output (Tableau)
+
+This repository also holds the companion **Project Output** assignment in the
+[`project-output-tableau/`](project-output-tableau/) folder: an interactive Tableau dashboard and a
+data story built on the same Superstore dataset. That folder contains the written report
+(`Q1122568_JuanOvalle_ProjectOutput.docx`), the packaged Tableau workbook (`.twbx`), a step-by-step
+build guide and the dashboard/story screenshots. See its own `README.md` for details.

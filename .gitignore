@@ -8,3 +8,14 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+
+# Build / scratch artifacts (not part of the deliverables)
+_fmt/
+_unzip/
+_pdf*/
+_vfy/
+_pv/
+*.tmp
+*.pdf
+toc.json
+node_modules/
